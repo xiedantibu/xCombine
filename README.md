@@ -32,9 +32,9 @@
 
 
 ## 关于：
-Author： wyouflf
-Email ： <wyouflf@gmail.com>
-如有疑问或者建议可以发邮件给我，稍后我会参考大家的问题补充 *README* 和 修改代码。
+* Author： wyouflf
+* Email ： <wyouflf@gmail.com>
+* 如有疑问或者建议可以发邮件给我，稍后我会参考大家的问题补充 *README* 和 修改代码。
 
 
 ----------------------------------------------------------------------------
@@ -73,5 +73,5 @@ Email ： <wyouflf@gmail.com>
 
 
 ## About：
-Author： wyouflf
-Email ： <wyouflf@gmail.com>
+* Author： wyouflf
+* Email ： <wyouflf@gmail.com>
