@@ -27,6 +27,7 @@
     <action android:name="android.intent.action.PACKAGE_REMOVED"/>
     <data android:scheme="package"/>
 </intent-filter>
+```
 
 
 ## 关于：
@@ -34,7 +35,9 @@ Author： wyouflf
 Email ： <wyouflf@gmail.com>
 如有疑问或者建议可以发邮件给我，稍后我会参考大家的问题补充 *README* 和 修改代码。
 
+
 ----------------------------------------------------------------------------
+
 
 ## xCombine Introduction：
 * xCombine is a plugin framework of android.
@@ -64,6 +67,7 @@ Email ： <wyouflf@gmail.com>
     <action android:name="android.intent.action.PACKAGE_REMOVED"/>
     <data android:scheme="package"/>
 </intent-filter>
+```
 
 
 ## About：
