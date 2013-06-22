@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="package_not_found">包未安装</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="create_appoint_class_error">初始化插件失败</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="package_not_found">package not found</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="create_appoint_class_error">init module error</string>
+</resources>
