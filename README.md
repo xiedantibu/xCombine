@@ -21,6 +21,7 @@
 ## 注意：
 * Module依赖xCombine, 但不要将xCombine编译进Module。
 * 需要在AndroidManifest.xml为主界面Activity添加下面的intent-filter：
+```xml
 <intent-filter>
     <action android:name="android.intent.action.PACKAGE_ADDED"/>
     <action android:name="android.intent.action.PACKAGE_REMOVED"/>
@@ -57,6 +58,7 @@ Email ： <wyouflf@gmail.com>
 ## Attention：
 * Module dependence on xCombine, but don't compile xCombine code in Module.
 * need add the following intent-filter in AndroidManifest.xml
+```xml
 <intent-filter>
     <action android:name="android.intent.action.PACKAGE_ADDED"/>
     <action android:name="android.intent.action.PACKAGE_REMOVED"/>
